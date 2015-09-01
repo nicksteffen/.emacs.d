@@ -1,0 +1,32 @@
+
+;; ----- smex-history -----
+(
+ ag
+ list-packages
+ shell
+ flycheck-list-errors
+ qr
+ ispell-buffer
+ ispell
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 8)
+ (package-list-packages . 1)
+ (flycheck-info . 1)
+ (flycheck-verify-setup . 2)
+ (vc-diff . 1)
+ (magit-status . 1)
+ (shell . 7)
+ (grep . 1)
+ (ag . 80)
+ (flycheck-list-errors . 17)
+ (revert-buffer . 2)
+ (qr . 59)
+ (flycheck-error-list-mode . 1)
+ (list-packages . 2)
+ (bury-buffer . 2)
+ (ispell . 1)
+ (ispell-buffer . 3)
+)

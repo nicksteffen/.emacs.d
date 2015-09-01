@@ -1,0 +1,130 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("d:/sonasoft/util/data_viewers/" . "node/")
+ ("d:/sonasoft/util/" . "data_viewers/")
+ ("d:/sonasoft/doc/" . "manual/")
+ ("d:/sonasoft/src/base/" . "math/")
+ ("d:/sonasoft/src/" . "CMapViewer/")
+ ("d:/sonasoft/" . "util/")
+ ("d:/tools/playback/recipes/" . "bottom-detection-sets/")
+ ("m:/" . "sandbox/")
+ ("c:/Users/nicholas.steffen/" . ".emacs.d/")
+ ("c:/Users/" . "nicholas.steffen/")
+ ("c:/" . "Users/")
+ ("d:/tools/playback/" . "recipes/")
+ ("d:/tools/" . "playback/")
+ ("d:/" . "sonasoft/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "d:/sonasoft/"
+ "c:/Users/nicholas.steffen/.emacs.d/"
+ "c:/"
+ "m:/sandbox/"
+ "d:/sonasoft/src/CMapViewer/"
+ "d:/sonasoft/doc/manual/"
+ "d:/sonasoft/src/base/math/"
+ "d:/"
+ "d:/sensor_layout/"
+ "d:/sonasoft/src/base/"
+ "d:/sonasoft/src/base/gui/"
+ "d:/tools/playback/"
+ "d:/tools/playback/recipes/"
+ "c:/ProgramData/chocolatey/bin/cd../"
+ "d:/tools/playback/recipes/bottom-detection-sets/"
+ "d:/tools/"
+ "d:/sandbox/"
+ "c:/ProgramData/chocolatey/bin/"
+ "d:/protos/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "temp.xml"
+ "init-packages1.el"
+ ".xml"
+ "init.el"
+ "gui.py"
+ "CMapView.cpp"
+ "CMapFrame.cpp"
+ "CMapNavView.cpp"
+ "NavConfigMgrDlg.cpp"
+ "StatusWindow.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("d:/sonasoft/src/CMapViewer/" (21954 3166 0 0) "VesselTrackDrawer.h" "VesselTrackDrawer.cpp" "StdAfx.h" "StdAfx.cpp" "StatusWindow.h" "StatusWindow.cpp" "SPSConfigMgrDlg.h" "SPSConfigMgrDlg.cpp" "scratch.cpp" "rex_controller_util.h" "rex_controller_util.cpp" "Resource.h" "res/" "RegistryUtil.h" "RegistryUtil.cpp" "readme.farsounder.txt" "NodeSelectConfigMgrDlg.h" "NodeSelectConfigMgrDlg.cpp" "NavConfigMgrDlg.h" "NavConfigMgrDlg.cpp" "Licenses.h" "Licenses.cpp" "geo_util.h" "drawing_util_unittest.cpp" "drawing_util.h" "diver_alarm_manager_util.h" "diver_alarm_manager_util.cpp" "CMapViewer.vcxproj.user" "CMapViewer.vcxproj.filters" "CMapViewer.vcxproj" "CMapViewer.rc" "CMapViewer.h" "CMapViewer.def" "CMapViewer.cpp" "CMapViewer.aps" "CMapView.h" "CMapView.cpp" "CMapSPSView.h" "CMapSPSView.cpp" "CMapNavView.h" "CMapNavView.cpp" "CMapFrame.h" "CMapFrame.cpp" "CMapAddRemoveDatabaseDlg.h" "CMapAddRemoveDatabaseDlg.cpp" "AlarmNotificationWindow.h" "AlarmNotificationWindow.cpp" "#scratch.cpp#" "#NavConfigMgrDlg.h#" "../" "./")
+
+ ("d:/sonasoft/util/data_viewers/nav/" (21954 3166 0 0) "signal_viewer.py" "p2p_bottom_facts_viewer.py" "nav_sdk_plot_example.py" "iwt_detections.pyw" "georeference.py" "gap_filler_debug.py" "detrended_beam_std.pyw" "depth_sounder_viewer.py" "close_range_viewer.py" "bottom_viewer.py" "bottom_line_fit_viewer.py" ".#signal_viewer.py" "#signal_viewer.py#" "../" "./")
+
+ ("d:/sonasoft/util/data_viewers/node/" (21946 9609 0 0) "template_match_viewer.py" "selected_mobile_clusters_viewer.py" "ping_smoother_processing.py" "mobile_features_viewer.py" "mobile_clusters_viewer.py" "general_features_viewer.py" "general_clusters_viewer.py" "../" "./")
+
+ ("d:/sonasoft/util/data_viewers/" (21946 9609 0 0) "timeseries_processing.py" "rph_filter_viewer.py" "node/" "nav/" "detrending.pyw" "central/" "../" "./")
+
+ ("d:/sonasoft/util/" (21946 9609 0 0) "_start_nssm_service.bat" "track_generator.py" "sonar_data_generator.py" "run_automated_tests.py" "rms_function.py" "reg_tree_builder.py" "registry/" "nssm.exe" "nav_info_generator.py" "monitor_track_selection.py" "log_streamer.py" "deploy.py" "data_viewers/" "database_reader.py" "collect_process_stats.py" "camera_image_server.py" "build_signal_analyzer_config_info.py" "benchplot.py" "../" "./")
+
+ ("d:/tools/playback/" (21951 53529 0 0) "tmp-vishakh-snr.bat" "tmp-vishakh-sh4.bat" "sps-ports-files/" "recipes/" "README.md" "playback_sps.py" "playback_recipes.py" "playback_protos.pyc" "playback_protos.py" "playback_nmeas.py" "playback.pyc" "playback.py" "playback.bat" "pb.bat" "pb" "buildbot-video-recording-setup.bat" "buildbot-fs500s.bat" "buildbot-fs500s-long3.bat" "buildbot-fs500s-long2.bat" "buildbot-fs500s-long1.bat" "buildbot-fs3dts.bat" "buildbot-fs3dts-long3.bat" "buildbot-fs3dts-long2.bat" "buildbot-fs3dts-long1.bat" "buildbot-fs1000s.bat" "buildbot-fs1000s-long3.bat" "buildbot-fs1000s-long2.bat" "buildbot-fs1000s-long1.bat" ".playbackconfig" ".gitignore" "../" "./")
+
+ ("d:/sonasoft/src/base/gui/" (21946 9604 0 0) "WndGL.h" "WndGL.cpp" "theme_util.hpp" "Theme.h" "Theme.cpp" "NumpadEdit.h" "NumpadEdit.cpp" "GLColorScaleControl.h" "GLColorScaleControl.cpp" "GenericHorizontalSplitter.h" "GenericHorizontalSplitter.cpp" "GdiPlusBitmapResource.h" "GdiPlusBitmapResource.cpp" "FillWnd.h" "FillWnd.cpp" "color_util.h" "AnimateWindowAsync.h" "AnimateWindowAsync.cpp" "../" "./")
+
+ ("d:/sonasoft/src/base/" (21946 9604 0 0) "Win32Helpers.h" "Win32Helpers.cpp" "waterfall_util.h" "waterfall_util.cpp" "vector_util.hpp" "units/" "timer_unittest.cpp" "timer.h" "timer.cpp" "threading/" "targetver.h" "system.h" "system.cpp" "style.hpp" "stringprintf_unittest.cpp" "stringprintf.h" "stringprintf.cpp" "stdafx.h" "stdafx.cpp" "speedtemplates.h" "speedtemplates.cpp" "sonasoftcolors.hpp" "signal/" "sensor_layout.h" "sensor_layout.cpp" "proto/" "paths.h" "paths.cpp" "olapfovgenerator.h" "olapfovgenerator.cpp" "nmeaparsers_unittest.cpp" "nmeaparsers.h" "nmeaparsers.cpp" "net/" "navinfo.h" "navinfo.cpp" "module_registry.h" "math/" "logging.h" "logging.cpp" "IniEx.h" "IniEx.cpp" "image/" "hardware/" "gui/" "geo_unittest.cpp" "geo.h" "geo.cpp" "exe_registry.h" "container/" "colorscale.h" "colorscale.cpp" "clusterer/" "centrallogger.h" "centrallogger.cpp" "benchmark.hpp" "base.vcxproj.user" "base.vcxproj.filters" "base.vcxproj" "api/" "../" "./")
+
+ ("d:/sensor_layout/" (21947 40023 0 0) "TAGS" "sensor_layout_yersin.ini" "sensor_layout_white_pearl.ini" "sensor_layout_vava_ii.ini" "sensor_layout_usv.ini" "sensor_layout_tv.ini" "sensor_layout_topaz.ini" "sensor_layout_tno.ini" "sensor_layout_the_world.ini" "sensor_layout_test.py" "sensor_layout_tatiana.ini" "sensor_layout_sps2.ini" "sensor_layout_sps1.ini" "sensor_layout_sea_owl.ini" "sensor_layout_rushmore.ini" "sensor_layout_quest.ini" "sensor_layout_piertest.ini" "sensor_layout_palladium.ini" "sensor_layout_office.ini" "sensor_layout_northern_star.ini" "sensor_layout_lone_wolf.ini" "sensor_layout_lgb.ini" "sensor_layout_le_soleal.ini" "sensor_layout_le_lyrial.ini" "sensor_layout_koonoona.ini" "sensor_layout_kh_oceanograf_2.ini" "sensor_layout_generic_nav.ini" "sensor_layout_dubai.ini" "sensor_layout_davisville_piertest_nov_2011.ini" "sensor_layout_capn_bert.ini" "sensor_layout_aurora.ini" "sensor_layout-template.ini" "README.sensor_layout" "NOTICE.txt" ".gitignore" ".git/" "../" "./")
+
+ ("d:/sonasoft/src/base/math/" (21946 9604 0 0) "uvfunctions.hpp" "trig.hpp" "transformationmatrices_unittest.cpp" "transformationmatrices.h" "transformationmatrices.cpp" "stats.hpp" "simplex.hpp" "regression.hpp" "normalize_unittest.cpp" "normalize.hpp" "misc_unittest.cpp" "misc.hpp" "constants.hpp" "complex_unittest.cpp" "complex.hpp" "bumpfunction.hpp" "arrayunittesthelpers.hpp" "../" "./")
+
+ ("d:/sonasoft/doc/manual/" (21951 54219 0 0) "sem-transducer-module.xml" "sem-sonasoft.xml" "sem-power-module.xml" "sem-operating-sonar.xml" "sem-network.xml" "sem-external-sensors.xml" "sem-cable.xml" "sect-ui-sps_toggle_sps_mode.xml" "sect-ui-sps_system_menu.xml" "sect-ui-sps_status.xml" "sect-ui-sidebar.xml" "sect-ui-overview.xml" "sect-ui-nav_system_menu.xml" "sect-ui-nav_status.xml" "sect-chart_setup.xml" "image_construction_files/" "images/" "F31556_sps-operation-manual.xml" "F31552_navigation-sonar-operation-manual.xml" "F31552_navigation-sonar-operation-manual.pdf" "F31552_navigation-sonar-operation-manual.chm" "F31552_farsounder-operation-manual.xml" "ch-ui_workspace.xml" "ch-system_settings.xml" "ch-ss_reqs.xml" "ch-sps-waterfall_viewer.xml" "ch-sps-ui_workspace.xml" "ch-sps-theory_of_operation.xml" "ch-sps-system_architecture.xml" "ch-sps-selected_track_viewer.xml" "ch-sps-node_configuration.xml" "ch-sps-chart_display.xml" "ch-shipboard-equipment.xml" "ch-nmea_setup.xml" "ch-nav_info_display.xml" "ch-nav-ui_workspace.xml" "ch-nav-toggle_nodes.xml" "ch-nav-ss_reqs.xml" "ch-nav-shipboard_equipment.xml" "ch-nav-nav_info_display.xml" "ch-nav-first_time_config.xml" "ch-nav-export.xml" "ch-nav-chart_display.xml" "ch-nav-3d_display.xml" "ch-first_time_config.xml" "ch-export.xml" "ch-chart_setup.xml" "ch-chart_display.xml" "ch-3d_display.xml" "cd_label.lsl" "build.sh" "build.readme.txt" "app-troubleshooting.xml" "app-stabilization.xml" "app-performance.xml" "app-maintenance.xml" "app-limitations.xml" "../" "./")
+
+ ("m:/sandbox/" (21947 37330 0 0) "verify_recipes.py" "tags_list.py~" "tags_list.py" "scratch.py" "recipe_test.py" "read.py~" "read.py" "pointrotate/" "learn.py~" "learn.py" "gui.py" "babysteps.py~" "babysteps.py" "#tag_draft#" "#tags_list.py#" "../" "./")
+
+ ("c:/Users/nicholas.steffen/.emacs.d/" (21946 9955 0 0) "smex-items" "init.el~" "init.el" "init-packages1.el" "init-packages.el" "ido.last~" "ido.last" "elpa/" "custom.el~" "custom.el" "auto-save-list/" "../" "./")
+
+ ("d:/sonasoft/" (21946 9603 0 0) "VERSION" "util/" "Untitled.bmp" "temp.xml" "src/" "sps/" "sdk/" "README.txt" "NOTICE.txt" "install/" "doc_changes3.diff" "doc_changes2.diff" "doc_changes.diff" "doc/" "CHANGES.txt" "build/" "apps/" "api/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/nicholas.steffen/" (21946 7813 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".pylint.d/" ".matplotlib/" ".ipython/" ".history" ".gitconfig" ".emacs.d/" ".config/" ".bash_history" "../" "./")
+
+ ("d:/sonasoft/doc/manual/images/" (21900 2638 0 0) "ui_workspace.png" "tm_rear_view.png" "terminal_strip_connectors.png" "system_status.png" "system_settings_dlg.png" "subconn_grease_level.png" "subconn_greased.png" "steep.png" "sps_system_menu.png" "sps_chart_settings.png" "sps_alarm_notification.png" "sps-sonar_node_statuses.png" "sps-chart.png" "sidebar-to_main.png" "sidebar-dragger.png" "shallow.png" "selected_track_viewer_display.png" "scale-signal.png" "scale-depth.png" "processor_config.jpg" "pm_rack_rear.png" "pm-wire_error2.png" "pm-wire_error1.png" "pm-tx_off.png" "pm-transmit_error.png" "pm-startup.png" "pm-rack.png" "pm-ping.png" "pm-no_transmit.png" "pm-no_power.png" "pm-light-on.png" "pm-light-off.png" "pm-light-half.png" "pm-light-flash.png" "pm-internal_failure.png" "pm-a-b-flash.png" "node_activation_config_manager_dlg.png" "nav_system_menu.png" "nav_info_display.png" "multi_path.png" "minimize_strain_on_wires.png" "medium.png" "limitations-wake.jpg" "limitations-sounder_noise2.jpg" "limitations-sounder_noise1.jpg" "limitations-3d_view.jpg" "legacy_dry_end_connector.png" "in_water.png" "icon-toggle_sps_mode.png" "icon-themes.png" "icon-system_menu.png" "icon-status.png" "icon-help.png" "icon-exit.png" "home_html_m9654eef.jpg" "fs_logo.jpg" "F71777.png" "F71774.png" "F71767.png" "example_waterfall_with_fish.png" "example_waterfall_image_annotated.png" "example_waterfall_image.png" "dry_end_detail.png" "crimp_bnc.png" "connect_cable_and_lock_ring.png" "connector_cap.png" "connecting_to_the_pm.png" "com_config.png" "cmap_search_automatically.png" "cmap_register_database.png" "cmap_newly_registered_database.png" "cmap_licenses_display_panel.png" "cmap_databases_display_panel.png" "cmap_chart_manager.png" "cmap_automatic_search.png" "cmap_add_license_dlg.png" "chart_settings.png" "chart.png" "cable_with_puller.png" "cable_inside_power_module.png" "bulkhead_power_module_top.png" "admon_small/" "admon/" "add_remove_database_dlg.png" "3d_display.png" "3dview-standard_mode.jpg" "3dview-min_depth_volume.png" "3dview-config.png" "3dview-alarm_volume.png" "3dview-alarm_acknowledge.PNG" "../" "./")
+
+ ("d:/python/farsounder/" (21935 59055 0 0) "__init__.pyc" "__init__.py" "zeromq.pyc" "zeromq.py" "xmitparse.py" "wnet.py" "winreg_test.py" "winreg.py" "wave_util.py" "tsp_test.py" "tsp.py" "time_util_test.py" "time_util.pyc" "time_util.py" "tests_util.py" "ssprocess.py" "spielberg.pyc" "spielberg.py" "sonar_equation_test.py" "sonar_equation.py" "sonar_config.pyc" "sonar_config.py" "socket_util.pyc" "socket_util.py" "signal_util_test.py" "signal_util.py" "shell.pyc" "shell.py" "sh3com.py" "service.py" "sensors_test.py" "sensors.pyc" "sensors.py" "sed.py" "roms.py" "rglob.py" "rex/" "process_util.py" "ProcessingFunctions.dll" "plotter.py" "nssm.exe" "NOTICE.txt" "nmea_test.py" "nmea.pyc" "nmea.py" "network.pyc" "network.py" "Microsoft.VC90.CRT/" "math_util_test.py" "math_util.pyc" "math_util.py" "logging_util.pyc" "logging_util.py" "iniparse.pyc" "iniparse.py" "histogram_util.py" "git_util.pyc" "git_util.py" "garmin.py" "fs3prop_test.py" "fs3prop.py" "fielddata.py" "email_util.py" "deprecated/" "decorator.pyc" "decorator.py" "datatunnel.pyc" "datatunnel.py" "cufft32_40_17.dll" "cudart32_40_17.dll" "cublas32_40_17.dll" "csv_util.py" "concurrency_util.pyc" "concurrency_util.py" "class_d_rom.py" "calibration_ini.py" "build.pyc" "build.py" "beamformer_test.py" "beamformer.py" "base_viewer.pyc" "base_viewer.py" "awg.py" "api_util_test.py" "api_util.py" "afg_signal_generator.py" ".#base_viewer.py" "#shell.py#" "#base_viewer.py#" "../" "./")
+
+ ("d:/tools/playback/recipes/" (21935 45868 0 0) "wickford-shallows-2.pbr.json" "wickford-shallows-1.pbr.json" "wickford-approaching-dock.pbr.json" "wakes.pbr.json" "valdez-ak.pbr.json" "upward-sloping.pbr.json" "ts11-tracy-legde-wake.pbr.json" "ts10-echo-sounder-interference-3.pbr.json" "ts09-echo-sounder-interference-2.pbr.json" "ts08-echo-sounder-interference-1.pbr.json" "ts07-nswc-channel-panama-city.pbr.json" "ts06-houma-canal-transit.pbr.json" "ts05-grand-lagoon-panama-city.pbr.json" "ts04-ft-adams-steep-slope.pbr.json" "ts03-morgan-city.pbr.json" "ts02-pier-corner-approach.pbr.json" "ts01-two-bridge-pilings.pbr.json" "the-world-tobago-arrival-approaching-port.pbr.json" "the-world-spain.pbr.json" "the-world-missing-pier.pbr.json" "the-world-belize-multi-transmit.pbr.json" "the-world-belize-clutter.pbr.json" "the-world-belize-channel-edge.pbr.json" "template.pbr.json" "survey-towards-npt-bridge.pbr.json" "survey-near-npt-bridge.pbr.json" "survey-cape-canaveral-lock.pbr.json" "stuff-to-import.txt" "steep-sloping-ft-adams.pbr.json" "sps2-nav-long-range-channel.pbr.json" "small-marker-piling.pbr.json" "shallow-breakwater.pbr.json" "shallow-bottom-far-targets.pbr.json" "sh6-very-shallow.pbr.json" "sh6-shorline-with-sharp-turn.pbr.json" "sh6-pier.pbr.json" "sh6-long-range.pbr.json" "sh6-long-range-buoy.pbr.json" "sh6-deep-to-shallow.pbr.json" "sh6-bull-pt-pier-approach.pbr.json" "sh5-npt-bridge-long-range-bottoms.pbr.json" "sh5-navy-pier.pbr.json" "sh5-bottom-dipping.json" "sh4-wreck-21.pbr.json" "sh4-wickford-harbor.pbr.json" "sh4-to-quonset.pbr.json" "sh4-sloped-bottom-and-shoreline.pbr.json" "sh4-shoreline.pbr.json" "sh4-rising-bottom.pbr.json" "sh4-prudence-shoreline.pbr.json" "sh4-prudence-island-pier-2.pbr.json" "sh4-prudence-island-pier-1.pbr.json" "sh4-newport-buoy.pbr.json" "sh4-memory-accrual-2.pbr.json" "sh4-memory-accrual-1.pbr.json" "sh4-melville-pier.pbr.json" "sh4-hope-island-loop.pbr.json" "sh4-halfway-rock.pbr.json" "sh4-gould-island-pier.pbr.json" "sh4-bottom-averager-crash.pbr.json" "sh4-bottom-and-pilings.pbr.json" "sh3-with-calibration-data.pbr.json" "sh3-quonset-pier.pbr.json" "sdk-run.pbr.json" "rushmore-long-range-channel.pbr.json" "rotterdam-approaching-split.pbr.json" "rock-pinnacle.pbr.json" "recipe_test.py" "README.txt" "pyl-tink-kau-bridge.pbr.json" "ping-comparison-2.pbr.json" "ping-comparison-1.pbr.json" "panama-city.pbr.json" "panama-city-pitched.pbr.json" "nswc-channel.pbr.json" "newport-bridge-2.pbr.json" "newport-bridge-1.pbr.json" "new-bedford-shallows.pbr.json" "narragansett-bay-mounds.pbr.json" "narragansett-bay-flat-bottom.pbr.json" "narr-bay-shallows-w-multiple-pilings.pbr.json" "narr-bay-mid-depth-w-shoreline.pbr.json" "narr-bay-long-range-buoy.pbr.json" "narr-bay-false-deep-water-2.pbr.json" "narr-bay-false-deep-water-1.pbr.json" "narr-bay-charted-rock.pbr.json" "moji-setup-wakes-with-engine-noise.pbr.json" "moji-setup-wake-dissipating.pbr.json" "moji-setup-shallow-harbor.pbr.json" "moji-setup-crossing-wake.pbr.json" "moji-demo-shallow-harbor.pbr.json" "moji-demo-returning-to-shallow-harbor.pbr.json" "moji-demo-fish-traps.pbr.json" "mississippi-river-outlet.pbr.json" "missing_seafloor_hump.pbr.json" "mcla.pbr.json" "manatee2.pbr.json" "manatee1.pbr.json" "low-autosquelch.pbr.json" "lone-wolf.pbr.json" "leaving-wickford-harbor.pbr.json" "kurihama-sea-mounts.pbr.json" "kurihama-entering-breakwater.pbr.json" "kurihama-dock.pbr.json" "kurihama-demos-iwt-merging-issue.pbr.json" "Kurihama-demo-run1.pbr.json" "kurihama-demo-exiting-harbor.pbr.json" "kurihama-demo-entering-harbor-2.pbr.json" "kurihama-demo-entering-harbor-1.pbr.json" "kurihama-demo-deep-to-shallow.pbr.json" "kurihama-approaching-dock.pbr.json" "kurihama-approaching-beach.pbr.json" "jamestown-bridge-run.pbr.json" "iiato-demo-moving.pbr.json" "iiato-demo-at-pier.pbr.json" "houma-canal-transit-2.pbr.json" "houma-canal-transit-1.pbr.json" "hope-island-approaching-from-south.pbr.json" "halfway-ledge-approach.pbr.json" "grand-lagoon-shallow-channel.pbr.json" "gould-island.pbr.json" "gould-island-navy-pier.pbr.json" "goat-island-approach.pbr.json" "glorious-dumplings.pbr.json" "gemini-high-speed.pbr.json" "ft-adams-side-sloping-run.pbr.json" "ft-adams-shorline.pbr.json" "ft-adams-sailing.pbr.json" "fort-admas.pbr.json" "fort-adams-up-and-down.pbr.json" "engine_interference_with_wake.pbr.json" "engine-noise-3.pbr.json" "engine-noise-2.pbr.json" "engine-noise-1.pbr.json" "deep-bottom-point-on-pier.json" "davisville-pier-run-2.pbr.json" "davisville-pier-run-1.pbr.json" "dasville-piers.pbr.json" "danish-demo-short-range-dumplings.pbr.json" "danish-demo-short-range-conanicut-marina.pbr.json" "danish-demo-short-range-bull-point-2.pbr.json" "danish-demo-short-range-bull-point-1.pbr.json" "danish-demo-short-range-bottom-contour.pbr.json" "danish-demo-long-range-shore-line.pbr.json" "coddington-cove-breakwater.pbr.json" "castle-hill-slope.pbr.json" "capn-bert-training-long-range-entering-harbor.pbr.json" "capn-bert-training-long-range-buoy-and-shore.pbr.json" "buzzards-bay-shipwreck.pbr.json" "buoy-34.pbr.json" "buoy-33.pbr.json" "buoy-32.pbr.json" "buoy-31.pbr.json" "buoy-30.pbr.json" "buoy-29.pbr.json" "buoy-28.pbr.json" "buoy-26.pbr.json" "buoy-25.pbr.json" "buoy-24.pbr.json" "buoy-23.pbr.json" "buoy-22.pbr.json" "buoy-21.pbr.json" "buoy-20.pbr.json" "buoy-19.pbr.json" "buoy-18.pbr.json" "buoy-17.pbr.json" "buoy-16.pbr.json" "buoy-15.pbr.json" "buoy-14.pbr.json" "buoy-13.pbr.json" "buoy-12.pbr.json" "buoy-11.pbr.json" "buoy-10.pbr.json" "buoy-09.pbr.json" "buoy-08.pbr.json" "buoy-07.pbr.json" "buoy-06.pbr.json" "buoy-05.pbr.json" "buoy-04.pbr.json" "buoy-03.pbr.json" "buoy-02.pbr.json" "buoy-01.pbr.json" "bottom-needles.pbr.json" "atchafalaya-river.pbr.json" "aquidneck-slope.pbr.json" "aquidneck-island-slope.pbr.json" "ancona-dock.pbr.json" "alaska-deep-channel.pbr.json" "alaska-deep-bottom.pbr.json" "alaska-approaching-pier.pbr.json" ".git" "../" "./")
+
+ ("d:/sonasoft/src/" (21934 22858 0 0) "WaterfallViewer/" "third_party/" "tests/" "TargetTracker/" "StatusGenerator/" "Sonasoft.suo" "Sonasoft.sln" "Sonasoft.sdf" "Sonasoft.opensdf" "SonaSoft/" "SonarProcessor/" "SonarDataViewer/" "SonarComm/" "ShipPositionFilter/" "SelectedTrackViewer/" "SectorViewer/" "RexComm/" "Release64/" "Release32/" "ProcessingFunctions/" "NotificationGenerator/" "NavInfoViewer/" "logs/" "ipch/" "ImageViewer/" "Fuser/" "DllRelease64/" "DllRelease32/" "DiverLikelihoodEstimator/" "Debug64/" "Debug32/" "DataPlayback/" "DatabaseReader/" "config/" "ComPortReader/" "CMapViewer/" "BeamformedDataViewer/" "base/" "Archiver/" "3DViewer/" "../" "./")
+
+ ("d:/sonasoft/doc/" (21900 2638 0 0) "whats_new/" "shared/" "sdk/" "manual/" "../" "./")
+
+ ("d:/sonasoft/src/TargetTracker/" (21900 5480 0 0) "track_resources_unittest.cpp" "track_resources.h" "trackpointtonodemapper_utils_unittest.cpp" "trackpointtonodemapper_utils.h" "trackpointtonodemapper_utils.cpp" "TrackPointToNodeMapper.h" "TrackPointToNodeMapper.cpp" "tracking_report_generator.h" "Track.h" "Track.cpp" "targetver.h" "targettracker_resources_unittest.cpp" "targettracker_resources.h" "TargetTracker.vcxproj.user" "TargetTracker.vcxproj.filters" "TargetTracker.vcxproj" "TargetTracker.h" "TargetTracker.def" "TargetTracker.cpp" "stdafx.h" "stdafx.cpp" "ReadMe.txt" "../" "./")
+
+ ("d:/tools/" (21916 6356 0 0) "update_geckoboard.py" "tuna/" "template.py" "TAGS" "syntac/" "svn-clean.bat" "sps/" "spielberg_me.py" "sonar_data_viewer.py" "sh5-processing-chain/" "sh5-calibration/" "py2exe_something.py" "proto_tap.py" "program_hmr3000.py" "process_beampattern.py" "plot_process_stats.py" "plot_nmea_streams.py" "playback/" "parsegps.py" "OS5000_compass_calibrate.py" "oring_gland_design.py" "nmeasim.py" "navinfo_simulator.py" "logview/" "ip_scanner.py" "hypack/" "generate_protos.py" "fielddata/" "evaluate_tx_system.py" "damus/" "ctd/" "collect_beampattern.py" "clear_out_directory.py" "calibration/" "backup-util/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/" (21899 3091 0 0) "UpdatusUser/" "tmp-user/" "Public/" "production/" "oral.clarke/" "nicholas.steffen/" "nabin.sharma/" "matthew.zimmerman/" "matthew.coolidge/" "desktop.ini" "Default User/" "Default/" "chris.brown/" "cheryl.zimmerman/" "All Users/" "Administrator/" "../" "./")
+
+ ("d:/protos/" (21898 59922 0 0) "waterfall.proto" "vessel.proto" "util.hpp" "track_ground_truth.proto" "time_util.hpp" "time.proto" "targets_util.hpp" "targets.proto" "TAGS" "system_status.proto" "sps_api.proto" "sonar_data_util_unittest.cpp" "sonar_data_util.hpp" "sonar_data.proto" "signal_quality.proto" "ship_position.proto" "rex_receiver.proto" "rex_controller.proto" "replay_data.proto" "protobuf-compile-rule.xml" "protobuf-compile-rule.targets" "protobuf-compile-rule.props" "processor_api.proto" "ports.ini.versioned" "overlapped_fov.proto" "node_detection.proto" "nmea.proto" "nav_sps_toggle.proto" "nav_info.proto" "nav_api.proto" "logging.proto" "image.proto" "grid_description_util.hpp" "grid_description.proto" "global_detection.proto" "field_data.proto" "diver_track.proto" "diver_likelihood.proto" "diver_alarm.proto" "data_request.proto" "beams.proto" "array_util_unittest.cpp" "array_util.hpp" "array.proto" ".gitignore" ".git/" "../" "./")
+
+ ("c:/ProgramData/chocolatey/bin/" (21900 19449 0 0) "_processed.txt" "update-game-score.exe" "runemacs.exe" "RefreshEnv.cmd" "profile.exe" "movemail.exe" "hexl.exe" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.4.exe" "ebrowse.exe" "ddeclient.exe" "cyg-get.bat" "cver.exe" "cup.exe" "cuninst.exe" "ctags.exe" "cpush.exe" "cpack.exe" "cmdproxy.exe" "clist.exe" "cinst.exe" "chocolatey.exe" "choco.exe" "ag.exe" "addpm.exe" "../" "./")
+
+ ("c:/ProgramData/" (21899 5409 0 0) "VS/" "VMware/" "Templates/" "Sun/" "Start Menu/" "SQL Anywhere 11/" "shimgen/" "Oracle/" "NVIDIA Corporation/" "NVIDIA/" "ntuser.pol" "Nero/" "Microsoft/" "Measurement Computing/" "LightScribe/" "Jeppesen Marine/" "Intuit/" "GroupPolicy/" "Google/" "FLEXnet/" "Favorites/" "Drobo Dashboard/" "Drobo/" "Documents/" "Desktop/" "DassaultSystemes/" "COMMON FILES/" "chocolatey/" "Autodesk/" "Application Data/" "Apple/" "AltiumDesignerSummer09_ViewerSecurity/" "AltiumDesignerSummer09_Viewer/" "AltiumDesignerDashboard/" "Adobe/" "../" "./")
+
+ ("c:/Users/nicholas.steffen/.emacs.d/elpa/" (21900 1852 0 0) "solarized-theme-20150424.53/" "smex-20141210.1422/" "pylint-20150123.1600/" "pkg-info-20150517.443/" "magit-20150608.1139/" "let-alist-1.0.3/" "git-rebase-mode-20150122.1114/" "git-commit-mode-20150330.1048/" "flycheck-20150612.235/" "flx-ido-20140821.2033/" "flx-20140921.739/" "etags-select-20130824.1200/" "epl-20150517.433/" "dash-20150513.1027/" "archives/" "annotate-readme.txt" "../" "./")
+
+ ("c:/Users/nicholas.steffen/.emacs.d/elpa/magit-20150608.1139/" (21900 1856 0 0) "README.md" "magit.info" "magit.elc" "magit.el" "magit-wip.elc" "magit-wip.el" "magit-pkg.el" "magit-key-mode.elc" "magit-key-mode.el" "magit-blame.elc" "magit-blame.el" "magit-autoloads.el" "dir" "AUTHORS.md" "../" "./")
+
+ ("c:/Users/nicholas.steffen/.emacs.d/elpa/etags-select-20130824.1200/" (21898 59791 0 0) "etags-select.elc" "etags-select.el" "etags-select-pkg.elc" "etags-select-pkg.el" "etags-select-autoloads.el" "../" "./")
+
+ ("c:/Users/nicholas.steffen/.emacs.d/elpa/flycheck-20150612.235/" (21897 43218 0 0) "flycheck.info" "flycheck.elc" "flycheck.el" "flycheck-pkg.el" "flycheck-ert.elc" "flycheck-ert.el" "flycheck-autoloads.el" "fdl-1.3.info" "dir" "../" "./")
+
+ ("d:/tools/playback/recipes/from_customers/" (21891 9617 0 0) "lone-wolf.pbr.json" ".#lone-wolf.pbr.json" "../" "./")
+
+ ("d:/tools/playback/recipes/bottom-detection-sets/" (21891 6953 0 0) "sh6-bull-pt-pier-approach.pbr.json" "../" "./")
+
+ ("d:/sandbox/" (21888 24406 0 0) "tags_list.py~" "tags_list.py" "read.py~" "read.py" "learn.py~" "learn.py" "babysteps.py~" "babysteps.py" "#tag_draft#" "#tags_list.py#" "../" "./")
+
+ ("c:/ProgramData/chocolatey/" (21878 60215 0 0) "tools/" "redirects/" "logs/" "LICENSE.txt" "lib/" "helpers/" "extensions/" "config/" "choco.exe" "bin/" ".chocolatey/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
